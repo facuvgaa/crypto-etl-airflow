@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+airflow-apache/
+
+# Bases de datos
+*.db
+db/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Config local
+.env

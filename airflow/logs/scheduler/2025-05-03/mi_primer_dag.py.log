@@ -1,0 +1,672 @@
+[2025-05-03T04:46:36.047-0300] {processor.py:161} INFO - Started process (PID=18405) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:46:36.048-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:46:36.049-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.049-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:46:36.065-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:46:36.308-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.308-0300] {override.py:1829} INFO - Created Permission View: can edit on DAG:crypto_pipeline
+[2025-05-03T04:46:36.314-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.314-0300] {override.py:1829} INFO - Created Permission View: can read on DAG:crypto_pipeline
+[2025-05-03T04:46:36.319-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.319-0300] {override.py:1829} INFO - Created Permission View: can delete on DAG:crypto_pipeline
+[2025-05-03T04:46:36.319-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.319-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:46:36.326-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.325-0300] {dag.py:3118} INFO - Creating ORM DAG for crypto_pipeline
+[2025-05-03T04:46:36.331-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:46:36.331-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-02 00:00:00+00:00, run_after=2025-05-03 00:00:00+00:00
+[2025-05-03T04:46:36.343-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.302 seconds
+[2025-05-03T04:47:45.997-0300] {processor.py:161} INFO - Started process (PID=19146) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:47:45.998-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:47:46.000-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:47:46.000-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:47:46.014-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:47:46.030-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:47:46.030-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:47:46.075-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:47:46.074-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-02 00:00:00+00:00, run_after=2025-05-03 00:00:00+00:00
+[2025-05-03T04:47:46.122-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.131 seconds
+[2025-05-03T04:48:37.858-0300] {processor.py:161} INFO - Started process (PID=19442) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:48:37.859-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:48:37.861-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:48:37.861-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:48:37.872-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:48:37.891-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:48:37.891-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:48:37.912-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:48:37.911-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-02 00:00:00+00:00, run_after=2025-05-03 00:00:00+00:00
+[2025-05-03T04:48:37.939-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.087 seconds
+[2025-05-03T04:49:21.498-0300] {processor.py:161} INFO - Started process (PID=19644) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:49:21.499-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:49:21.502-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:49:21.501-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:49:21.509-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:49:21.524-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:49:21.523-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:49:21.540-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:49:21.540-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-02 00:00:00+00:00, run_after=2025-05-03 00:00:00+00:00
+[2025-05-03T04:49:21.553-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.061 seconds
+[2025-05-03T04:50:03.409-0300] {processor.py:161} INFO - Started process (PID=19829) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:03.411-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:50:03.413-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:03.412-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:03.421-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:03.434-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:03.434-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:50:03.449-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:03.449-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-02 00:00:00+00:00, run_after=2025-05-03 00:00:00+00:00
+[2025-05-03T04:50:03.462-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T04:50:57.753-0300] {processor.py:161} INFO - Started process (PID=20490) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:57.755-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:50:57.757-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:57.756-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:57.767-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:50:57.782-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:57.782-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:50:57.801-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:50:57.801-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:50:57.816-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.070 seconds
+[2025-05-03T04:51:38.338-0300] {processor.py:161} INFO - Started process (PID=21023) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:51:38.340-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:51:38.343-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:51:38.343-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:51:38.356-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:51:38.374-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:51:38.373-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:51:38.393-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:51:38.393-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:51:38.412-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.085 seconds
+[2025-05-03T04:52:24.650-0300] {processor.py:161} INFO - Started process (PID=21414) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:52:24.651-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:52:24.654-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:52:24.653-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:52:24.662-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:52:24.678-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:52:24.677-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:52:24.695-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:52:24.695-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:52:24.711-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T04:53:10.251-0300] {processor.py:161} INFO - Started process (PID=21923) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:10.252-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:53:10.256-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:10.254-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:10.269-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:10.287-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:10.287-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:53:10.308-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:10.308-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:53:10.327-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.083 seconds
+[2025-05-03T04:53:50.880-0300] {processor.py:161} INFO - Started process (PID=22403) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:50.881-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:53:50.883-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:50.882-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:50.892-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:53:50.908-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:50.907-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:53:50.927-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:53:50.927-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:53:50.944-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.072 seconds
+[2025-05-03T04:54:37.624-0300] {processor.py:161} INFO - Started process (PID=22960) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:54:37.625-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:54:37.628-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:54:37.628-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:54:37.636-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:54:37.650-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:54:37.650-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:54:37.668-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:54:37.667-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:54:37.684-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.065 seconds
+[2025-05-03T04:55:27.789-0300] {processor.py:161} INFO - Started process (PID=23585) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:55:27.790-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:55:27.793-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:55:27.792-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:55:27.804-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:55:27.823-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:55:27.823-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:55:27.844-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:55:27.844-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:55:27.861-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.080 seconds
+[2025-05-03T04:56:15.871-0300] {processor.py:161} INFO - Started process (PID=23804) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:15.872-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:56:15.875-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:15.875-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:15.884-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:15.901-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:15.900-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:56:15.921-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:15.921-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:56:15.939-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.074 seconds
+[2025-05-03T04:56:56.284-0300] {processor.py:161} INFO - Started process (PID=24080) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:56.285-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:56:56.287-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:56.287-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:56.295-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:56:56.309-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:56.308-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:56:56.324-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:56:56.324-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:56:56.337-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T04:57:40.764-0300] {processor.py:161} INFO - Started process (PID=24299) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:57:40.765-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:57:40.767-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:57:40.766-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:57:40.775-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:57:40.787-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:57:40.787-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:57:40.802-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:57:40.802-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:57:40.817-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T04:58:26.330-0300] {processor.py:161} INFO - Started process (PID=24686) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:58:26.331-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:58:26.333-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:58:26.333-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:58:26.342-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:58:26.359-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:58:26.359-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:58:26.397-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:58:26.397-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:58:26.448-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.122 seconds
+[2025-05-03T04:59:06.482-0300] {processor.py:161} INFO - Started process (PID=24874) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:06.484-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:59:06.487-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:06.486-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:06.496-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:06.513-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:06.513-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:59:06.532-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:06.531-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:59:06.548-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.074 seconds
+[2025-05-03T04:59:50.610-0300] {processor.py:161} INFO - Started process (PID=25064) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:50.611-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T04:59:50.613-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:50.613-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:50.626-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T04:59:50.646-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:50.645-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T04:59:50.667-0300] {logging_mixin.py:188} INFO - [2025-05-03T04:59:50.667-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T04:59:50.685-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.082 seconds
+[2025-05-03T05:00:35.133-0300] {processor.py:161} INFO - Started process (PID=25266) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:00:35.134-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:00:35.136-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:00:35.135-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:00:35.146-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:00:35.162-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:00:35.161-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:00:35.182-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:00:35.182-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:00:35.200-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.075 seconds
+[2025-05-03T05:01:19.645-0300] {processor.py:161} INFO - Started process (PID=25617) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:01:19.646-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:01:19.649-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:01:19.648-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:01:19.658-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:01:19.671-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:01:19.671-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:01:19.687-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:01:19.687-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:01:19.701-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.066 seconds
+[2025-05-03T05:02:39.418-0300] {processor.py:161} INFO - Started process (PID=26167) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:02:39.419-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:02:39.421-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:02:39.421-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:02:39.433-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:02:39.455-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:02:39.454-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:02:39.473-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:02:39.473-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:02:39.489-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.076 seconds
+[2025-05-03T05:03:46.782-0300] {processor.py:161} INFO - Started process (PID=26942) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:03:46.783-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:03:46.785-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:03:46.784-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:03:46.792-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:03:46.809-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:03:46.808-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:03:46.832-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:03:46.832-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:03:46.853-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.076 seconds
+[2025-05-03T05:04:37.100-0300] {processor.py:161} INFO - Started process (PID=27390) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:04:37.103-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:04:37.106-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:04:37.105-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:04:37.117-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:04:37.139-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:04:37.138-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:04:37.164-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:04:37.163-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:04:37.185-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.092 seconds
+[2025-05-03T05:05:24.013-0300] {processor.py:161} INFO - Started process (PID=27733) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:05:24.016-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:05:24.018-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:05:24.017-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:05:24.031-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:05:24.051-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:05:24.051-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:05:24.074-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:05:24.074-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:05:24.096-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.094 seconds
+[2025-05-03T05:06:07.235-0300] {processor.py:161} INFO - Started process (PID=28094) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:07.236-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:06:07.239-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:07.239-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:07.249-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:07.266-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:07.266-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:06:07.286-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:07.286-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:06:07.306-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.078 seconds
+[2025-05-03T05:06:49.030-0300] {processor.py:161} INFO - Started process (PID=28325) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:49.032-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:06:49.033-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:49.033-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:49.041-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:06:49.058-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:49.058-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:06:49.075-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:06:49.075-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:06:49.092-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.069 seconds
+[2025-05-03T05:07:37.698-0300] {processor.py:161} INFO - Started process (PID=28776) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:07:37.699-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:07:37.703-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:07:37.701-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:07:37.715-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:07:37.733-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:07:37.733-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:07:37.797-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:07:37.796-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:07:37.867-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.177 seconds
+[2025-05-03T05:08:26.709-0300] {processor.py:161} INFO - Started process (PID=29029) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:08:26.711-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:08:26.716-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:08:26.713-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:08:26.731-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:08:26.754-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:08:26.754-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:08:26.778-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:08:26.777-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:08:26.800-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.098 seconds
+[2025-05-03T05:09:14.348-0300] {processor.py:161} INFO - Started process (PID=29312) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:09:14.349-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:09:14.352-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:09:14.351-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:09:14.361-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:09:14.378-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:09:14.378-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:09:14.419-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:09:14.419-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:09:14.442-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.101 seconds
+[2025-05-03T05:10:07.450-0300] {processor.py:161} INFO - Started process (PID=29846) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:07.451-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:10:07.454-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:07.454-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:07.467-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:07.486-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:07.486-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:10:07.508-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:07.508-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:10:07.524-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.082 seconds
+[2025-05-03T05:10:56.833-0300] {processor.py:161} INFO - Started process (PID=30077) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:56.834-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:10:56.835-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:56.835-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:56.842-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:10:56.854-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:56.854-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:10:56.868-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:10:56.868-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:10:56.882-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.054 seconds
+[2025-05-03T05:11:41.709-0300] {processor.py:161} INFO - Started process (PID=30291) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:11:41.710-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:11:41.712-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:11:41.712-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:11:41.719-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:11:41.732-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:11:41.732-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:11:41.748-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:11:41.747-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:11:41.761-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.057 seconds
+[2025-05-03T05:12:32.987-0300] {processor.py:161} INFO - Started process (PID=30814) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:12:32.988-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:12:32.992-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:12:32.991-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:12:33.005-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:12:33.031-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:12:33.031-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:12:33.057-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:12:33.057-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:12:33.081-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.104 seconds
+[2025-05-03T05:13:03.656-0300] {processor.py:161} INFO - Started process (PID=31067) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:13:03.656-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:13:03.658-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:13:03.658-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:13:03.667-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:13:03.682-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:13:03.682-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:13:03.700-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:13:03.700-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:13:03.716-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T05:14:44.584-0300] {processor.py:161} INFO - Started process (PID=31857) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:14:44.584-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:14:44.586-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:14:44.586-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:14:44.600-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:14:44.623-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:14:44.623-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:14:44.653-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:14:44.653-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:14:44.668-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.089 seconds
+[2025-05-03T05:15:53.428-0300] {processor.py:161} INFO - Started process (PID=32807) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:15:53.431-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:15:53.433-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:15:53.432-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:15:53.444-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:15:53.466-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:15:53.466-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:15:53.485-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:15:53.485-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:15:53.501-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.081 seconds
+[2025-05-03T05:16:40.293-0300] {processor.py:161} INFO - Started process (PID=33357) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:16:40.294-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:16:40.295-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:16:40.295-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:16:40.306-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:16:40.320-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:16:40.320-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:16:40.337-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:16:40.337-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:16:40.353-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.066 seconds
+[2025-05-03T05:17:33.728-0300] {processor.py:161} INFO - Started process (PID=34079) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:17:33.729-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:17:33.731-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:17:33.730-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:17:33.739-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:17:33.759-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:17:33.759-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:17:33.784-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:17:33.784-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:17:33.805-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.082 seconds
+[2025-05-03T05:18:05.204-0300] {processor.py:161} INFO - Started process (PID=34229) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:05.205-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:18:05.207-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:05.206-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:05.218-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:05.236-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:05.236-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:18:05.273-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:05.273-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:18:05.324-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.128 seconds
+[2025-05-03T05:18:47.632-0300] {processor.py:161} INFO - Started process (PID=34418) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:47.633-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:18:47.634-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:47.634-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:47.642-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:18:47.656-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:47.656-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:18:47.676-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:18:47.676-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:18:47.690-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.063 seconds
+[2025-05-03T05:20:16.275-0300] {processor.py:161} INFO - Started process (PID=35097) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:20:16.277-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:20:16.282-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:20:16.282-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:20:16.285-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:20:16.284-0300] {dagbag.py:350} ERROR - Failed to import: /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+Traceback (most recent call last):
+  File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py", line 23
+    bash_command='python /home/facuvega/Descargas/crypto-etl-airflow/scripts/etl.py'
+                 
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2025-05-03T05:20:16.286-0300] {processor.py:842} WARNING - No viable dags retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:20:16.298-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.027 seconds
+[2025-05-03T05:21:45.860-0300] {processor.py:161} INFO - Started process (PID=36226) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:21:45.871-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:21:45.878-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:21:45.877-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:21:45.940-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:21:47.879-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:21:47.879-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:21:47.983-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:21:47.980-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:21:48.054-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 2.214 seconds
+[2025-05-03T05:23:09.041-0300] {processor.py:161} INFO - Started process (PID=37277) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:09.043-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:23:09.045-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:09.045-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:09.059-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:09.079-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:09.079-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:23:09.100-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:09.099-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:23:09.123-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.089 seconds
+[2025-05-03T05:23:45.482-0300] {processor.py:161} INFO - Started process (PID=37710) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:45.483-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:23:45.484-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:45.484-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:45.495-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:23:45.510-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:45.510-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:23:45.528-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:23:45.528-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:23:45.545-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.070 seconds
+[2025-05-03T05:24:29.352-0300] {processor.py:161} INFO - Started process (PID=38220) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:24:29.353-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:24:29.354-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:24:29.354-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:24:29.363-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:24:29.376-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:24:29.376-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:24:29.394-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:24:29.394-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:24:29.408-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.064 seconds
+[2025-05-03T05:25:13.487-0300] {processor.py:161} INFO - Started process (PID=38744) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:13.488-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:25:13.490-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:13.489-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:13.499-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:13.513-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:13.513-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:25:13.532-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:13.531-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:25:13.546-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T05:25:58.325-0300] {processor.py:161} INFO - Started process (PID=39135) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:58.326-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:25:58.328-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:58.327-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:58.341-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:25:58.357-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:58.357-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:25:58.375-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:25:58.375-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:25:58.390-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.072 seconds
+[2025-05-03T05:26:42.541-0300] {processor.py:161} INFO - Started process (PID=39395) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:26:42.542-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:26:42.544-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:26:42.544-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:26:42.552-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:26:42.564-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:26:42.564-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:26:42.580-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:26:42.580-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:26:42.594-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T05:27:26.874-0300] {processor.py:161} INFO - Started process (PID=39696) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:27:26.876-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:27:26.879-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:27:26.878-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:27:26.891-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:27:26.908-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:27:26.908-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:27:26.930-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:27:26.930-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:27:27.025-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.159 seconds
+[2025-05-03T05:28:21.808-0300] {processor.py:161} INFO - Started process (PID=40028) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:28:21.809-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:28:21.811-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:28:21.811-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:28:21.823-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:28:21.841-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:28:21.840-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:28:21.866-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:28:21.865-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:28:21.887-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.088 seconds
+[2025-05-03T05:29:10.980-0300] {processor.py:161} INFO - Started process (PID=40325) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:10.981-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:29:10.983-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:10.983-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:10.993-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:11.015-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:11.015-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:29:11.037-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:11.036-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:29:11.064-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.091 seconds
+[2025-05-03T05:29:52.661-0300] {processor.py:161} INFO - Started process (PID=40515) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:52.662-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:29:52.664-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:52.664-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:52.673-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:29:52.689-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:52.689-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:29:52.708-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:29:52.708-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:29:52.724-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.071 seconds
+[2025-05-03T05:30:35.889-0300] {processor.py:161} INFO - Started process (PID=40722) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:30:35.890-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:30:35.891-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:30:35.891-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:30:35.898-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:30:35.910-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:30:35.910-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:30:35.925-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:30:35.925-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:30:35.937-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.053 seconds
+[2025-05-03T05:31:14.619-0300] {processor.py:161} INFO - Started process (PID=40896) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:14.620-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:31:14.623-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:14.622-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:14.630-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:14.641-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:14.641-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:31:14.658-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:14.658-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:31:14.670-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.056 seconds
+[2025-05-03T05:31:56.245-0300] {processor.py:161} INFO - Started process (PID=41115) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:56.246-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:31:56.248-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:56.248-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:56.256-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:31:56.270-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:56.270-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:31:56.287-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:31:56.287-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:31:56.303-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.063 seconds
+[2025-05-03T05:33:02.299-0300] {processor.py:161} INFO - Started process (PID=41588) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:33:02.300-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:33:02.301-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:33:02.301-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:33:02.313-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:33:02.331-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:33:02.330-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:33:02.345-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:33:02.345-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:33:02.357-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.062 seconds
+[2025-05-03T05:34:02.793-0300] {processor.py:161} INFO - Started process (PID=42072) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:34:02.794-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:34:02.796-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:34:02.796-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:34:02.804-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:34:02.816-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:34:02.816-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:34:02.831-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:34:02.831-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:34:02.843-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.056 seconds
+[2025-05-03T05:35:10.313-0300] {processor.py:161} INFO - Started process (PID=42991) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:10.314-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:35:10.316-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:10.316-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:10.327-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:10.345-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:10.344-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:35:10.364-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:10.363-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:35:10.380-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.075 seconds
+[2025-05-03T05:35:42.232-0300] {processor.py:161} INFO - Started process (PID=43367) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:42.233-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:35:42.236-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:42.235-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:42.245-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:35:42.260-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:42.259-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:35:42.278-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:35:42.277-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:35:42.293-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.070 seconds
+[2025-05-03T05:36:26.619-0300] {processor.py:161} INFO - Started process (PID=43902) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:36:26.620-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:36:26.623-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:36:26.622-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:36:26.632-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:36:26.647-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:36:26.646-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:36:26.665-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:36:26.664-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:36:26.680-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.068 seconds
+[2025-05-03T05:37:07.710-0300] {processor.py:161} INFO - Started process (PID=44405) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:07.711-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:37:07.714-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:07.713-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:07.723-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:07.738-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:07.738-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:37:07.757-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:07.757-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:37:07.772-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.069 seconds
+[2025-05-03T05:37:49.095-0300] {processor.py:161} INFO - Started process (PID=44876) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:49.096-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:37:49.099-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:49.098-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:49.108-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:37:49.124-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:49.123-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:37:49.143-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:37:49.142-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:37:49.158-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.070 seconds
+[2025-05-03T05:38:31.355-0300] {processor.py:161} INFO - Started process (PID=45397) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:38:31.356-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:38:31.358-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:38:31.358-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:38:31.367-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:38:31.382-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:38:31.381-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:38:31.404-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:38:31.403-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:38:31.444-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.096 seconds
+[2025-05-03T05:39:16.177-0300] {processor.py:161} INFO - Started process (PID=45924) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:39:16.178-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:39:16.181-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:39:16.180-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:39:16.190-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:39:16.203-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:39:16.203-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:39:16.222-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:39:16.222-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:39:16.238-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T05:40:05.455-0300] {processor.py:161} INFO - Started process (PID=46265) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:05.457-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:40:05.458-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:05.458-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:05.466-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:05.479-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:05.479-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:40:05.495-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:05.494-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:40:05.508-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.058 seconds
+[2025-05-03T05:40:50.114-0300] {processor.py:161} INFO - Started process (PID=46466) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:50.115-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:40:50.117-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:50.117-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:50.126-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:40:50.141-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:50.141-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:40:50.157-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:40:50.156-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:40:50.170-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.062 seconds
+[2025-05-03T05:41:31.437-0300] {processor.py:161} INFO - Started process (PID=46669) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:41:31.438-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:41:31.441-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:41:31.440-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:41:31.449-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:41:31.462-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:41:31.462-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:41:31.478-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:41:31.478-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:41:31.491-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.061 seconds
+[2025-05-03T05:42:11.415-0300] {processor.py:161} INFO - Started process (PID=46851) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:11.416-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:42:11.418-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:11.418-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:11.426-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:11.439-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:11.439-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:42:11.454-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:11.454-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:42:11.467-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.057 seconds
+[2025-05-03T05:42:56.173-0300] {processor.py:161} INFO - Started process (PID=47070) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:56.175-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:42:56.180-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:56.179-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:56.201-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:42:56.343-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:56.343-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:42:56.368-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:42:56.368-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:42:56.389-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.231 seconds
+[2025-05-03T05:43:47.057-0300] {processor.py:161} INFO - Started process (PID=47366) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:43:47.060-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:43:47.067-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:43:47.066-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:43:47.094-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:43:47.156-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:43:47.155-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:43:47.235-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:43:47.232-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:43:47.274-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.242 seconds
+[2025-05-03T05:44:33.447-0300] {processor.py:161} INFO - Started process (PID=47574) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:44:33.448-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:44:33.450-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:44:33.450-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:44:33.458-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:44:33.471-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:44:33.471-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:44:33.487-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:44:33.487-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:44:33.500-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T05:45:15.600-0300] {processor.py:161} INFO - Started process (PID=47759) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:15.601-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:45:15.603-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:15.603-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:15.611-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:15.624-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:15.624-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:45:15.641-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:15.640-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:45:15.654-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.059 seconds
+[2025-05-03T05:45:55.650-0300] {processor.py:161} INFO - Started process (PID=47945) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:55.651-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:45:55.653-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:55.653-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:55.661-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:45:55.673-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:55.673-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:45:55.688-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:45:55.688-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:45:55.701-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.057 seconds
+[2025-05-03T05:46:36.953-0300] {processor.py:161} INFO - Started process (PID=48134) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:46:36.954-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:46:36.956-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:46:36.956-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:46:36.964-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:46:36.977-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:46:36.977-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:46:36.995-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:46:36.994-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:46:37.010-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T05:47:22.009-0300] {processor.py:161} INFO - Started process (PID=48337) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:47:22.010-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:47:22.012-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:47:22.011-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:47:22.020-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:47:22.032-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:47:22.032-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:47:22.047-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:47:22.047-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:47:22.061-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.058 seconds
+[2025-05-03T05:48:02.737-0300] {processor.py:161} INFO - Started process (PID=48520) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:02.738-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:48:02.740-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:02.739-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:02.748-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:02.760-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:02.760-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:48:02.776-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:02.775-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:48:02.789-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.058 seconds
+[2025-05-03T05:48:43.105-0300] {processor.py:161} INFO - Started process (PID=48733) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:43.106-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:48:43.109-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:43.108-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:43.120-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:48:43.139-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:43.138-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:48:43.165-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:48:43.164-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:48:43.182-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.084 seconds
+[2025-05-03T05:49:21.201-0300] {processor.py:161} INFO - Started process (PID=49098) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:49:21.202-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:49:21.204-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:49:21.204-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:49:21.212-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:49:21.224-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:49:21.224-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:49:21.240-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:49:21.240-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:49:21.253-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.058 seconds
+[2025-05-03T05:50:02.575-0300] {processor.py:161} INFO - Started process (PID=49303) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:02.576-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:50:02.578-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:02.578-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:02.586-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:02.598-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:02.598-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:50:02.613-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:02.613-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:50:02.630-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.060 seconds
+[2025-05-03T05:50:44.119-0300] {processor.py:161} INFO - Started process (PID=49797) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:44.120-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:50:44.122-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:44.121-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:44.130-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:50:44.142-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:44.142-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:50:44.157-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:50:44.157-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:50:44.171-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.057 seconds
+[2025-05-03T05:52:47.335-0300] {processor.py:161} INFO - Started process (PID=50483) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:52:47.336-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:52:47.338-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:52:47.338-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:52:47.350-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:52:47.369-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:52:47.369-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:52:47.384-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:52:47.384-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:52:47.399-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.068 seconds
+[2025-05-03T05:53:50.798-0300] {processor.py:161} INFO - Started process (PID=51116) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:53:50.802-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:53:50.806-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:53:50.805-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:53:50.820-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:53:50.849-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:53:50.849-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:53:50.874-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:53:50.874-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:53:50.894-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.108 seconds
+[2025-05-03T05:54:31.616-0300] {processor.py:161} INFO - Started process (PID=51762) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:54:31.617-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:54:31.620-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:54:31.620-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:54:31.630-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:54:31.645-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:54:31.645-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:54:31.665-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:54:31.665-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:54:31.682-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.074 seconds
+[2025-05-03T05:55:09.354-0300] {processor.py:161} INFO - Started process (PID=52208) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:55:09.355-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:55:09.357-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:55:09.357-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:55:09.368-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:55:09.385-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:55:09.385-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:55:09.404-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:55:09.403-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:55:09.419-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.074 seconds
+[2025-05-03T05:56:00.217-0300] {processor.py:161} INFO - Started process (PID=52797) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:56:00.218-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:56:00.220-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:56:00.220-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:56:00.228-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:56:00.242-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:56:00.242-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:56:00.259-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:56:00.259-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:56:00.284-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.073 seconds
+[2025-05-03T05:58:12.235-0300] {processor.py:161} INFO - Started process (PID=53785) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:58:12.236-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:58:12.237-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:58:12.237-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:58:12.248-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:58:12.266-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:58:12.266-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:58:12.281-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:58:12.281-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:58:12.293-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.063 seconds
+[2025-05-03T05:59:30.212-0300] {processor.py:161} INFO - Started process (PID=54583) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:59:30.213-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T05:59:30.215-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:59:30.215-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:59:30.225-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T05:59:30.241-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:59:30.241-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T05:59:30.258-0300] {logging_mixin.py:188} INFO - [2025-05-03T05:59:30.258-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T05:59:30.271-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.065 seconds
+[2025-05-03T06:00:30.667-0300] {processor.py:161} INFO - Started process (PID=55510) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:00:30.668-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:00:30.670-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:00:30.670-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:00:30.679-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:00:30.693-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:00:30.693-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:00:30.710-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:00:30.710-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:00:30.724-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.063 seconds
+[2025-05-03T06:01:02.556-0300] {processor.py:161} INFO - Started process (PID=55842) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:01:02.557-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:01:02.561-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:01:02.560-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:01:02.578-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:01:02.592-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:01:02.591-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:01:02.619-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:01:02.618-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:01:02.633-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.088 seconds
+[2025-05-03T06:02:22.568-0300] {processor.py:161} INFO - Started process (PID=56444) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:02:22.569-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:02:22.571-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:02:22.570-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:02:22.584-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:02:22.603-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:02:22.603-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:02:22.618-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:02:22.618-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:02:22.630-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.067 seconds
+[2025-05-03T06:03:20.686-0300] {processor.py:161} INFO - Started process (PID=56961) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:03:20.687-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:03:20.689-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:03:20.688-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:03:20.695-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:03:20.708-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:03:20.707-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:03:20.721-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:03:20.721-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:03:20.734-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.053 seconds
+[2025-05-03T06:04:27.463-0300] {processor.py:161} INFO - Started process (PID=57805) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:04:27.464-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:04:27.467-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:04:27.467-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:04:27.483-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:04:27.502-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:04:27.502-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:04:27.528-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:04:27.528-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:04:27.551-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.098 seconds
+[2025-05-03T06:05:05.635-0300] {processor.py:161} INFO - Started process (PID=58302) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:05:05.636-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:05:05.639-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:05:05.638-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:05:05.649-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:05:05.664-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:05:05.664-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:05:05.683-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:05:05.683-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:05:05.699-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.071 seconds
+[2025-05-03T06:06:03.770-0300] {processor.py:161} INFO - Started process (PID=58856) to work on /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:06:03.776-0300] {processor.py:830} INFO - Processing file /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py for tasks to queue
+[2025-05-03T06:06:03.781-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:06:03.781-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:06:03.799-0300] {processor.py:840} INFO - DAG(s) 'crypto_pipeline' retrieved from /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py
+[2025-05-03T06:06:03.820-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:06:03.820-0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-03T06:06:03.847-0300] {logging_mixin.py:188} INFO - [2025-05-03T06:06:03.847-0300] {dag.py:3954} INFO - Setting next_dagrun for crypto_pipeline to 2025-05-03 00:00:00+00:00, run_after=2025-05-04 00:00:00+00:00
+[2025-05-03T06:06:03.870-0300] {processor.py:183} INFO - Processing /home/facuvega/Descargas/crypto-etl-airflow/dags/mi_primer_dag.py took 0.108 seconds

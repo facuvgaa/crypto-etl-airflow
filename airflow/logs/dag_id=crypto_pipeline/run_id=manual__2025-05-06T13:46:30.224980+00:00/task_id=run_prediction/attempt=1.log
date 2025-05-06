@@ -1,0 +1,62 @@
+[2025-05-06T10:46:47.894-0300] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-05-06T10:46:47.935-0300] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: crypto_pipeline.run_prediction manual__2025-05-06T13:46:30.224980+00:00 [queued]>
+[2025-05-06T10:46:47.945-0300] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: crypto_pipeline.run_prediction manual__2025-05-06T13:46:30.224980+00:00 [queued]>
+[2025-05-06T10:46:47.945-0300] {taskinstance.py:2303} INFO - Starting attempt 1 of 2
+[2025-05-06T10:46:47.985-0300] {taskinstance.py:2327} INFO - Executing <Task(BashOperator): run_prediction> on 2025-05-06 13:46:30.224980+00:00
+[2025-05-06T10:46:48.009-0300] {standard_task_runner.py:63} INFO - Started process 70845 to run task
+[2025-05-06T10:46:48.023-0300] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'crypto_pipeline', 'run_prediction', 'manual__2025-05-06T13:46:30.224980+00:00', '--job-id', '83', '--raw', '--subdir', 'DAGS_FOLDER/mi_primer_dag.py', '--cfg-path', '/tmp/tmpx7zuqy0s']
+[2025-05-06T10:46:48.029-0300] {standard_task_runner.py:91} INFO - Job 83: Subtask run_prediction
+[2025-05-06T10:46:48.067-0300] {task_command.py:426} INFO - Running <TaskInstance: crypto_pipeline.run_prediction manual__2025-05-06T13:46:30.224980+00:00 [running]> on host facuvega
+[2025-05-06T10:46:48.139-0300] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='crypto_pipeline' AIRFLOW_CTX_TASK_ID='run_prediction' AIRFLOW_CTX_EXECUTION_DATE='2025-05-06T13:46:30.224980+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-06T13:46:30.224980+00:00'
+[2025-05-06T10:46:48.140-0300] {taskinstance.py:430} INFO - ::endgroup::
+[2025-05-06T10:46:48.142-0300] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-05-06T10:46:48.142-0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python /home/facuvega/Descargas/crypto-etl-airflow/scripts/main.py']
+[2025-05-06T10:46:48.168-0300] {subprocess.py:86} INFO - Output:
+[2025-05-06T10:46:50.120-0300] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2025-05-06T10:46:50.120-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/pandas/io/sql.py", line 2262, in execute
+[2025-05-06T10:46:50.120-0300] {subprocess.py:93} INFO -     cur.execute(sql, *args)
+[2025-05-06T10:46:50.120-0300] {subprocess.py:93} INFO - sqlite3.OperationalError: no such table: cryptos
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO - 
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO - The above exception was the direct cause of the following exception:
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO - 
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/scripts/main.py", line 6, in <module>
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -     df, start_time = load_data("BTC")
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -                      ^^^^^^^^^^^^^^^^
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/scripts/data/data_load.py", line 25, in load_data
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -     df = pd.read_sql(query, conn)
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -          ^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/pandas/io/sql.py", line 654, in read_sql
+[2025-05-06T10:46:50.121-0300] {subprocess.py:93} INFO -     return pandas_sql.read_query(
+[2025-05-06T10:46:50.129-0300] {subprocess.py:93} INFO -            ^^^^^^^^^^^^^^^^^^^^^^
+[2025-05-06T10:46:50.129-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/pandas/io/sql.py", line 2326, in read_query
+[2025-05-06T10:46:50.129-0300] {subprocess.py:93} INFO -     cursor = self.execute(sql, params)
+[2025-05-06T10:46:50.129-0300] {subprocess.py:93} INFO -              ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -   File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/pandas/io/sql.py", line 2274, in execute
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -     raise ex from exc
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO - pandas.errors.DatabaseError: Execution failed on sql '
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -         SELECT timestamp, current_price FROM cryptos
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -         WHERE symbol = 'BTC'
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -         ORDER BY timestamp ASC
+[2025-05-06T10:46:50.130-0300] {subprocess.py:93} INFO -        ': no such table: cryptos
+[2025-05-06T10:46:50.427-0300] {subprocess.py:97} INFO - Command exited with return code 1
+[2025-05-06T10:46:50.428-0300] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-05-06T10:46:50.435-0300] {taskinstance.py:2890} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/facuvega/Descargas/crypto-etl-airflow/airflow-apache/lib/python3.11/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2025-05-06T10:46:50.441-0300] {taskinstance.py:1205} INFO - Marking task as UP_FOR_RETRY. dag_id=crypto_pipeline, task_id=run_prediction, execution_date=20250506T134630, start_date=20250506T134647, end_date=20250506T134650
+[2025-05-06T10:46:50.452-0300] {standard_task_runner.py:110} ERROR - Failed to execute job 83 for task run_prediction (Bash command failed. The command returned a non-zero exit code 1.; 70845)
+[2025-05-06T10:46:50.501-0300] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-05-06T10:46:50.516-0300] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-06T10:46:50.517-0300] {local_task_job_runner.py:222} INFO - ::endgroup::

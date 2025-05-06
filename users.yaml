@@ -1,0 +1,9 @@
+# user.yaml
+airflow_version: 3.0.0
+users:
+  - email: facundo.vega@gmail.com
+    firstname: walter
+    lastname: vega
+    username: admin
+    role: Admin
+    password: facuvega
